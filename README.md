@@ -1,15 +1,4 @@
 <div  align="center">
-  <div id="badges">
-    <a hrep="https://www.linkedin.com/in/florentin-lochon-1056801bb" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a hrep="https://twitter.com/Flochon5" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Flochoon&style=flat-square&color=blue" alt=""/>
-  </div>
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -56,3 +45,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flochoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<div id="badges">
+    <a hrep="https://www.linkedin.com/in/florentin-lochon-1056801bb" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a hrep="https://twitter.com/Flochon5" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+		</a>
+    <img src="https://komarev.com/ghpvc/?username=Flochoon&style=flat-square&color=blue" alt=""/>
+  </div>
