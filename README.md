@@ -48,10 +48,10 @@
 ---
 
 <div id="badges">
-    <a hrep="https://www.linkedin.com/in/florentin-lochon-1056801bb" target="_blank">
+    <a href="https://www.linkedin.com/in/florentin-lochon-1056801bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a hrep="https://twitter.com/Flochon5" target="_blank">
+    <a href="https://twitter.com/Flochon5" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 		</a>
     <img src="https://komarev.com/ghpvc/?username=Flochoon&style=flat-square&color=blue" alt=""/>
