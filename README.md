@@ -15,7 +15,7 @@
 </h2>
 
   - Third year engineer student
-  - Learning Web3 Developpement 
+  - Learning cybersecurity to become a cybersecurity analyst
   
 ---
 
