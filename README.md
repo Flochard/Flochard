@@ -14,8 +14,8 @@
   :man_technologist: About Me :
 </h2>
 
-  - French third year engineer student at Polytech Angers
-  - Learning cybersecurity to become a cybersecurity analyst
+  - French fourth year engineer student at Polytech Angers
+  - Learning cybersecurity and enjoying Python
   
 ---
 
