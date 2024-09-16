@@ -14,7 +14,7 @@
   :man_technologist: About Me :
 </h2>
 
-  - French fourth year engineer student at Polytech Angers
+  - French fifth year engineer student at Polytech Angers in double degree with Université du Québec à Chicoutimi
   - Learning cybersecurity and enjoying Python
   
 ---
